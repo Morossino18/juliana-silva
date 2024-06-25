@@ -1,0 +1,119 @@
+body {
+    background-color: beige;
+    color: #e4551d;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+}
+ nav {
+    display:grid;
+    place-content: right;
+    place-items: right;  
+   color: #e4551d; 
+   position: fixed
+   padding: 10px
+}
+button {
+    background-color: beige;
+    border: 2px solid #e4551d;
+    color: #e4551d;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+}
+button:hover{
+    background-color: rgb(236, 132, 90);
+    color: beige;
+}
+header{
+    font-size: 25px;
+}
+nav a{
+    grid-row: 1;
+    background-color: beige;
+    color: #e4551d;
+    text-align: right;
+    text-decoration: none;
+    font-size: 17px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 10px; 
+}
+.juliana-silva1{
+    float:right;
+    width:50%;
+    margin-top: 20px;
+}
+.par1{
+    width:50%;
+    float:left
+    margin-top:10px;
+    margin-bottom:10px;
+    margin-right: 200px;
+    margin-left: 10px;
+}
+.nome{
+    margin-top: 50px;
+    margin-bottom: 5px;
+    font-size: 50px;
+}
+.juliana-silva {
+    font-size: 40px;
+    float:left
+    margin-bottom:40px;
+    margin-right:100px;
+
+}
+.par2{
+    margin-left: 50%;
+    float:right;
+    font-size: 25px;
+    line-height: 40px;
+}
+.meu-trabalho{
+    font-size: 50px;
+}
+.juliana-silva2{
+    float: left;
+    width:50%;
+    height: auto;
+}
+.Trabalhe-Comigo{
+    margin-top: 25%;
+    text-align: center;
+    margin-bottom: 0%;
+}
+.ligue{
+    text-align: center;
+}
+.email{
+    text-align: center;
+    margin-bottom: 25px;
+}
+.icons{
+    text-align: center;
+    font-size: 24px;
+}
+.juliana-silva{
+    font-size: 70px;
+    margin-right: 50%;
+    margin-bottom: 0%;
+}
+.par3{
+    text-align: left;
+    font-size: 20px;
+    margin-left: 25%;
+    margin-right: 18%;
+    float: right;
+}
+.servicos{
+    padding: 10px;
+    border: 2px solid #e4551d;
+}
+.habilidades{
+    padding: 10px;
+    border: 2px solid #e4551d;
+
+}
